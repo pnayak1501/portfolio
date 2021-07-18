@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Prahlad Nayak",
+    "occupation": "Student at BMSCE",
+    "description": "I eat, sleep and breathe Code",
+    "image": "2.jpeg",
+    "bio": "Hi there! I am Prahlad! I am an aspiring Software Engineer, currently pursuing B.E. from BMS College of Engineering in Information Science and Engineering. I am a Software Engineer with excellent problem solving skills and I have the ability to perform well in a team. I started my coding journey from HackerRank and currently jamming on LeetCode.",
+    "contactmessage": "Get in touch with me!",
+    "email": "prahlad.is@bmsce.ac.in",
+    "phone": "+91 7045093070",
+    "address": {
+      "street": "Basavangudi",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560019"
+    },
+    "website": "https://github.com/pnayak1501",
+    "resumedownload": "https://drive.google.com/file/d/1NX6SsNdBhIOXWHRX9khlmoCGa8GJUBz6/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prahlad-nayak-25904110b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pnayak1501",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "BMS College of Engineering",
+        "degree": "Bachelor of Engineering, Information Science and Engineering",
+        "graduated": "July 2022",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Standard Chartered",
+        "title": "Software Development Engineering Intern",
+        "years": "May 2021 - July 2021",
+        "description": "Developed a web application for showing different XML files in a structured manner."
+      },
+      {
+        "company": "Olcademy",
+        "title": "Web Development Intern",
+        "years": "Dec 2020 - Feb 2021",
+        "description": "Redesgined the website to create new web content layout and changed the themes."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "HTML, CSS, JS",
+        "level": "80%"
+      },
+      {
+        "name": "PHP, NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "Data Structure & Algorithms",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-commerce website",
+        "category": "MERN",
+        "image": "e-commerce.jpeg",
+        "url": "https://github.com/iamrajanand/mern-e-commerce"
+      },
+      {
+        "title": "Codino",
+        "category": "PHP",
+        "image": "codino.png",
+        "url": "https://github.com/pnayak1501/codino"
+      },
+      {
+        "title": "Cetflix",
+        "category": "ReactJS",
+        "image": "cetflix.png",
+        "url": "https://github.com/pnayak1501/cetflix"
+      },
+      {
+        "title": "E-voting",
+        "category": "Blockchain",
+        "image": "e-voting.png",
+        "url": "https://github.com/pnayak1501/e-voting-system-using-blockchain"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
